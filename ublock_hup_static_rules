@@ -1,0 +1,3 @@
+! hup.hu silent treyblog
+hup.hu##[href="/me"]:upward(6):matches-path(/blog)
+hup.hu##[href*="/treyblog/"]:upward(2):matches-path(/activity)
